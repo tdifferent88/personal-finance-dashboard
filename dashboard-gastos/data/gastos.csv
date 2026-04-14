@@ -1,0 +1,6 @@
+data,categoria,descricao,valor,tipo
+2026-04-01,Alimentação,Supermercado,-250,Despesa
+2026-04-02,Salário,Empresa,5000,Receita
+2026-04-03,Transporte,Uber,-35,Despesa
+2026-04-04,Lazer,Cinema,-50,Despesa
+2026-04-05,Saúde,Farmácia,-90,Despesa
